@@ -1,4 +1,3 @@
-import React from 'react'
 import { DragDropContext } from 'react-beautiful-dnd';
 import { StrictModeDroppable } from './strictModeDroppable';
 import { Result, TypeTodos } from '../App';
