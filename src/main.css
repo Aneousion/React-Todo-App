@@ -51,6 +51,7 @@ input[type=checkbox] {
     border-right: 0;
     padding-top: 0;
     padding-bottom: 0;
+    color: white;
 }
 
 .todoinput input[type=text]:focus-visible {
@@ -136,5 +137,14 @@ ul {
     background-color: transparent;
 }
 
-
+@media (max-width: 482px) {
+    .todoinput input[type=submit] {
+      margin-top: 20px;
+      min-width: 310px;
+    }
+    .todoinput input[type=text] {
+        padding: 0px;
+        margin-right: 0px;
+    }
+  }
 
