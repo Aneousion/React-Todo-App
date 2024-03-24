@@ -1,2 +1,2 @@
 # React-Todo-App
-A simple react todo app written in typescript and styled with vanilla css. [Demo](https://reactts-todo-app.vercel.app)
+A simple todo-app written in React-Typescript and styled with vanilla css. [Demo](https://reactts-todo-app.vercel.app)
